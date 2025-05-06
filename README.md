@@ -5,7 +5,7 @@
 🎓 Master's in Computer Science | Data Analytics | SAP Basis Specialist  
 📍 Currently based in the United States  
 📅 Graduating: August 2025  
-📫 jallurivardhan@gmail.com | [GitHub Portfolio](https://jallurivardhan.github.io) | [LinkedIn](https://www.linkedin.com/in/vardhanjalluri/)
+📫 jallurivardhan@gmail.com | [Portfolio](https://jallurivardhan.github.io) | [LinkedIn](https://www.linkedin.com/in/vardhanjalluri/)
 
 ---
 
@@ -13,14 +13,14 @@
 
 - 💼 Former SAP Basis Consultant at **Accenture** with 2+ years of global project experience  
 - 📊 Graduate Assistant at **MTSU**, improving system and student performance through data analytics  
-- 🌩️ Skilled in **SAP Upgrades, AWS, Python, SQL, R, Java, Tableau, Power BI**  
+- 🌩️ Skilled in **SAP Upgrades, AWS, Python, SQL, Tableau, Power BI**  
 - 🧠 Passionate about building scalable, secure, and analytical solutions
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Python, SQL, Java, R, Unix Shell  
+- **Languages**: Python, SQL, Unix Shell  
 - **Data Tools**: Tableau, Power BI, MySQL, MongoDB  
 - **Cloud & Infra**: AWS, GCP, SAP HANA, SAP Solution Manager  
 - **Others**: SAP Basis Administration, ActiveControl, ServiceNow, React.js, Node.js
