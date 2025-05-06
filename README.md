@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/Grey%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png" width="100%" />
+<img src="https://github.com/jallurivardhan/jallurivardhan/blob/main/Vardhan%20Banner.png" alt="Vardhan Banner" width="100%" />
 
 # 👋 Hi, I’m Vardhan Jalluri
 
 🎓 Master's in Computer Science | Data Analytics | SAP Basis Specialist  
 📍 Currently based in the United States  
-📅 Graduating: June 2025  
+📅 Graduating: August 2025  
 📫 jallurivardhan@gmail.com | [GitHub Portfolio](https://jallurivardhan.github.io) | [LinkedIn](https://www.linkedin.com/in/vardhanjalluri/)
 
 ---
