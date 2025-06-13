@@ -1,4 +1,4 @@
-<img src="https://github.com/jallurivardhan/jallurivardhan/blob/main/Vardhan%20Banner.png" alt="Vardhan Banner" width="100%" />
+<img src="https://github.com/jallurivardhan/jallurivardhan/blob/main/linkedin%20banner.png" alt="Vardhan Banner" width="100%" />
 
 # 👋 Hi, I’m Vardhan Jalluri
 
